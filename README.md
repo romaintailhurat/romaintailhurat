@@ -1,8 +1,8 @@
 ## Hey! ✋😃
 
-Currently a product manager / metadata expert at Insee.
+Currently a metadata expert / project manager at [Making Sense](https://www.making-sense.info).
 
-Nowadays i mainly produce _issues_ and _comments_ but i sometimes code! 🙂
+Coding is a way to help our clients to understand and manage data and metadata. 🙂
 
 ([rarity color palette](https://www.color-hex.com/color-palette/59885))
 
